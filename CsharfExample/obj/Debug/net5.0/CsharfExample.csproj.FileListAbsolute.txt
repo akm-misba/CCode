@@ -1,0 +1,16 @@
+F:\CsharfExample\CsharfExample\bin\Debug\net5.0\CsharfExample.exe
+F:\CsharfExample\CsharfExample\bin\Debug\net5.0\CsharfExample.deps.json
+F:\CsharfExample\CsharfExample\bin\Debug\net5.0\CsharfExample.runtimeconfig.json
+F:\CsharfExample\CsharfExample\bin\Debug\net5.0\CsharfExample.runtimeconfig.dev.json
+F:\CsharfExample\CsharfExample\bin\Debug\net5.0\CsharfExample.dll
+F:\CsharfExample\CsharfExample\bin\Debug\net5.0\ref\CsharfExample.dll
+F:\CsharfExample\CsharfExample\bin\Debug\net5.0\CsharfExample.pdb
+F:\CsharfExample\CsharfExample\obj\Debug\net5.0\CsharfExample.csproj.AssemblyReference.cache
+F:\CsharfExample\CsharfExample\obj\Debug\net5.0\CsharfExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\CsharfExample\CsharfExample\obj\Debug\net5.0\CsharfExample.AssemblyInfoInputs.cache
+F:\CsharfExample\CsharfExample\obj\Debug\net5.0\CsharfExample.AssemblyInfo.cs
+F:\CsharfExample\CsharfExample\obj\Debug\net5.0\CsharfExample.csproj.CoreCompileInputs.cache
+F:\CsharfExample\CsharfExample\obj\Debug\net5.0\CsharfExample.dll
+F:\CsharfExample\CsharfExample\obj\Debug\net5.0\ref\CsharfExample.dll
+F:\CsharfExample\CsharfExample\obj\Debug\net5.0\CsharfExample.pdb
+F:\CsharfExample\CsharfExample\obj\Debug\net5.0\CsharfExample.genruntimeconfig.cache

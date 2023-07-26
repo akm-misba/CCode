@@ -1,0 +1,15 @@
+F:\CsharfExample\ArrayExample\bin\Debug\net5.0\ArrayExample.exe
+F:\CsharfExample\ArrayExample\bin\Debug\net5.0\ArrayExample.deps.json
+F:\CsharfExample\ArrayExample\bin\Debug\net5.0\ArrayExample.runtimeconfig.json
+F:\CsharfExample\ArrayExample\bin\Debug\net5.0\ArrayExample.runtimeconfig.dev.json
+F:\CsharfExample\ArrayExample\bin\Debug\net5.0\ArrayExample.dll
+F:\CsharfExample\ArrayExample\bin\Debug\net5.0\ref\ArrayExample.dll
+F:\CsharfExample\ArrayExample\bin\Debug\net5.0\ArrayExample.pdb
+F:\CsharfExample\ArrayExample\obj\Debug\net5.0\ArrayExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\CsharfExample\ArrayExample\obj\Debug\net5.0\ArrayExample.AssemblyInfoInputs.cache
+F:\CsharfExample\ArrayExample\obj\Debug\net5.0\ArrayExample.AssemblyInfo.cs
+F:\CsharfExample\ArrayExample\obj\Debug\net5.0\ArrayExample.csproj.CoreCompileInputs.cache
+F:\CsharfExample\ArrayExample\obj\Debug\net5.0\ArrayExample.dll
+F:\CsharfExample\ArrayExample\obj\Debug\net5.0\ref\ArrayExample.dll
+F:\CsharfExample\ArrayExample\obj\Debug\net5.0\ArrayExample.pdb
+F:\CsharfExample\ArrayExample\obj\Debug\net5.0\ArrayExample.genruntimeconfig.cache
